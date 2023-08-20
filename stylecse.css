@@ -1,0 +1,64 @@
+.cse{
+  background-color: black;
+    color:whitesmoke;
+    text-align:center;
+    font-style: bold;
+    font-size:38px;
+   }
+   .info{
+    font-size:22px;
+    color:black;
+    background-color: beige;
+   }
+   section{
+    background-color: beige;
+    float:center;
+    text-align:right;
+    color:black;
+    display: flex;
+    align-items: left;
+    justify-content:left;
+    
+  }
+  img
+  {
+    
+    float:left;
+    margin-bottom: 25px;
+    margin-left: 38px;
+  }
+  h1
+{
+  background-color: bisque;
+  text-align:center;
+  margin-left:25px;
+}  
+body{
+  background-image:linear-gradient(to right,rgba(185, 26, 194, 0.879),rgb(255, 255, 255));
+   filter:grayscale(75%);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-position: center;
+    height:50%;
+    
+}
+h2{
+  background-color: blueviolet;
+  text-align: center;
+  color:aliceblue
+
+}
+li{
+  background-color: beige;
+  font-size:20px;
+}
+ul
+{
+  background-color: beige;
+}
+footer{
+  text-align:center;
+  background-color: beige;
+ 
+}
